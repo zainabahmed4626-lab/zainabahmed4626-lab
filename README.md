@@ -1,4 +1,4 @@
-🌟 Hi, I’m Zainab — AI Engineer | LLM Systems | RAG | MLOps
+🌟 :)  Hello there!!  I’m Zainab — AI Engineer | LLM Systems | RAG | MLOps
 I build practical, production‑ready AI systems — not just models. My work sits at the intersection of LLMs, retrieval systems, backend engineering, and MLOps, with a focus on making AI reliable, scalable, and actually useful in real‑world products.
 
 I love turning messy, ambiguous problems into clean, automated pipelines powered by modern AI tooling.
